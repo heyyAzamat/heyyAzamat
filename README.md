@@ -8,12 +8,7 @@
 ---
 
 ## 🌌 About Me
-- Founder of **Azyon**, where ideas turn into projects  
-- **FLEX semi-finalist** – global exchange experience  
-- Taught **50+ students**, volunteered **150+ hours**  
-- Participated in **international projects** (8 countries, 500+ users)  
-- Hackathons, olympiads & tech championships fan  
-- Always hunting for **challenges & growth**  
+- Coming soon 
 
 > 💡 Motto: *“Build, break, learn, repeat.”*
 
@@ -32,11 +27,7 @@
 ---
 
 ## 🌟 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Study Assistant Bot** | AI-powered study buddy for quizzes & notes | Python, OpenAI API |
-| **Volunteer Connect** | Platform matching volunteers with NGOs | React, Node.js |
-| **Hackathon Manager** | Event tracker, scoring, leaderboard | JS, Express, MongoDB |
+- Coming soon
 
 > 📝 Each project is a journey. Every line of code tells a story.
 
@@ -51,9 +42,7 @@
 ---
 
 ## 🎯 What I’m exploring
-- AI for productivity & education  
-- Web3 & decentralized communities  
-- Interactive learning tools  
+- Coming soon
 
 ---
 
