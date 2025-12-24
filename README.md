@@ -1,4 +1,4 @@
-<img src="cat.gif" width="250" />
+<img src="cat.gif" align=center width="250" />
 <h1 align="center">👋 Yo! I'm Azamat</h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
 
