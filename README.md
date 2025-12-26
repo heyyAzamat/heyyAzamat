@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="cat.gif" width="250" />
-</div>
 <h1 align="center">👋 Yo! I'm Azamat</h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
 
