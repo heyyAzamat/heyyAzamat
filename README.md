@@ -39,8 +39,8 @@
 
 ## 📈 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyyAzamat&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyyAzamat&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dracula" />
 </p>
 
 ---
