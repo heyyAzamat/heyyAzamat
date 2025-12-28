@@ -39,8 +39,10 @@
 
 ## 📈 GitHub Insights
 <p align="center">
-  <img src="[https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=heyyAzamat&show_icons=true&theme=dracula](https://github-readme-stats-one-bice.vercel.app/api?username=heyyAzamat)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=heyyAzamat&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dracula" />
 </p>
+
 
 ---
 
