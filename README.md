@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://instagram.com/heyyAzamat"><img src="icon-instagram.svg" width="52" alt="Instagram" /></a>
+  <a href="https://instagram.com/heyyAzamat"><img src="icon-instagram.svg" width="34" alt="Instagram" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/heyyAzamat"><img src="icon-telegram.svg" width="52" alt="Telegram" /></a>
+  <a href="https://t.me/heyyAzamat"><img src="icon-telegram.svg" width="34" alt="Telegram" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/heyyAzamat"><img src="icon-twitter.svg" width="52" alt="Twitter" /></a>
+  <a href="https://twitter.com/heyyAzamat"><img src="icon-twitter.svg" width="34" alt="Twitter" /></a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/heyyAzamat"><img src="icon-linkedin.svg" width="52" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/heyyAzamat"><img src="icon-linkedin.svg" width="34" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ AI likeness licences, fingerprinted with SHA-256 and anchored on Solana. Biometr
 </td>
 <td width="38%" rowspan="2" align="center" valign="middle">
 
-<img src="hands.gif" width="290" alt="Two hands reaching toward each other, drawn in scan lines" />
+<img src="birds.gif" width="250" alt="Two birds in flight, drawn in halftone dots" />
 
 </td>
 <td width="31%" valign="top">
@@ -90,6 +90,6 @@ Side builds and experiments that did not survive contact with a deadline.
   <img src="https://img.shields.io/badge/Docker-5a5a5a?style=for-the-badge&logo=docker" alt="Docker" />
 </p>
 
-> Build, break, learn, repeat.
-
-> Anchoring a hash is easy. Deciding what deserves to be permanent is the hard part.
+<div align="center">
+  <img src="hands.gif" width="460" alt="Two hands reaching toward each other, drawn in scan lines" />
+</div>
