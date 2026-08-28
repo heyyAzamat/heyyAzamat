@@ -6,7 +6,13 @@
   </picture>
 </div>
 
-<h1 align="center">👋 Yo! I'm Azamat</h1>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="name-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="name-black.svg" />
+    <img src="name-black.svg" width="552" alt="I'm Azamat" />
+  </picture>
+</h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
 
 <p align="center">
