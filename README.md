@@ -9,14 +9,7 @@
 </p>
 
 <h2 align="center">Know About Me</h2>
-<table>
-<tr>
-<td width="260" align="center" valign="top">
-
-<img src="globe.gif" width="240" alt="A rotating globe in halftone dots" />
-
-</td>
-<td valign="top">
+<img src="globe.gif" width="230" align="left" alt="A rotating globe in halftone dots" />
 
 **Hey there! I'm Azamat.**
 
@@ -24,9 +17,7 @@ I build systems that prove things are true — licences you can verify, pipeline
 
 Ask me about canonical hashing, on-chain anchoring, or building a whole product in a weekend.
 
-</td>
-</tr>
-</table>
+<br clear="left" />
 
 <h2 align="center">Top Projects</h2>
 
