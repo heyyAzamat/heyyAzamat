@@ -8,9 +8,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-white.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="header-black.gif" />
-    <img src="header-black.gif" width="820" alt="Go ahead" />
+    <source media="(prefers-color-scheme: dark)" srcset="banner-white.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="banner-black.gif" />
+    <img src="banner-black.gif" width="820" alt="Go ahead" />
   </picture>
 </div>
 
