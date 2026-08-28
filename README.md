@@ -85,5 +85,5 @@ Side builds and experiments that did not survive contact with a deadline.
 </p>
 
 <div align="center">
-  <img src="hands.gif" width="460" alt="Two hands reaching toward each other, drawn in scan lines" />
+  <img src="hands.gif" width="100%" alt="Two hands reaching toward each other, drawn in scan lines" />
 </div>
