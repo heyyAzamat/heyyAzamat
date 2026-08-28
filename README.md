@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="go-ahead-white.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="go-ahead-black.gif" />
-    <img src="go-ahead-black.gif" width="600" alt="Go ahead" />
-  </picture>
+  <img src="go-ahead.gif" width="600" alt="Go ahead" />
 </div>
 
 <p align="center">
@@ -17,11 +13,7 @@
 <tr>
 <td width="260" align="center" valign="top">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="globe-white.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="globe-black.gif" />
-  <img src="globe-black.gif" width="240" alt="A rotating globe in halftone dots" />
-</picture>
+<img src="globe.gif" width="240" alt="A rotating globe in halftone dots" />
 
 </td>
 <td valign="top">
