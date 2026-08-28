@@ -7,7 +7,11 @@
 </div>
 
 <h1 align="center">
-  <img src="headline.svg" width="554" alt="Go ahead" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="headline-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="headline-black.svg" />
+    <img src="headline-black.svg" width="554" alt="Go ahead" />
+  </picture>
 </h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
 
