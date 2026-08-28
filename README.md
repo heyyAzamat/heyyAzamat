@@ -1,5 +1,10 @@
-<table align="center" width="100%">
-<tr><td>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="frame-top-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="frame-top-black.svg" />
+    <img src="frame-top-black.svg" width="880" alt="" />
+  </picture>
+</div>
 
 <h1 align="center">
   <picture>
@@ -73,5 +78,10 @@ Ask me about canonical hashing, on-chain anchoring, or building a whole product 
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
-</td></tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="frame-bot-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="frame-bot-black.svg" />
+    <img src="frame-bot-black.svg" width="880" alt="" />
+  </picture>
+</div>
