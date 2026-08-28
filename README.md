@@ -7,11 +7,7 @@
 </div>
 
 <h1 align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="name-white.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="name-black.svg" />
-    <img src="name-black.svg" width="552" alt="I'm Azamat" />
-  </picture>
+  <img src="headline.svg" width="554" alt="Go ahead" />
 </h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
 
