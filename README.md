@@ -12,12 +12,6 @@
   <a href="https://linkedin.com/in/heyyAzamat"><img src="icon-linkedin.svg" width="34" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/heyyAzamat?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=5a5a5a&labelColor=5a5a5a" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/heyyAzamat?style=for-the-badge&logo=github&label=FOLLOWERS&color=5a5a5a&labelColor=5a5a5a" alt="Followers" />
-  <img src="https://img.shields.io/badge/REPOS-5-5a5a5a?style=for-the-badge&logo=github&labelColor=5a5a5a" alt="Repos" />
-</p>
-
 <h2 align="center">Know About Me</h2>
 <img src="globe.gif" width="230" align="left" alt="A rotating globe in halftone dots" />
 
