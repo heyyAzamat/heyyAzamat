@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="horse.gif" width="420" alt="A horse galloping, drawn as a halftone dot matrix" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="horse-white.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="horse-black.gif" />
+    <img src="horse-black.gif" width="420" alt="A horse galloping, drawn as a halftone dot matrix" />
+  </picture>
 </div>
 
 <h1 align="center">👋 Yo! I'm Azamat</h1>
