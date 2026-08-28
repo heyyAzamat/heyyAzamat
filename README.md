@@ -93,13 +93,3 @@ Side builds and experiments that did not survive contact with a deadline.
 > Build, break, learn, repeat.
 
 > Anchoring a hash is easy. Deciding what deserves to be permanent is the hard part.
-
-<h2 align="center">Contribution</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=heyyAzamat&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</p>
-
