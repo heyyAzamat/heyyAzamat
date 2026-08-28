@@ -44,7 +44,7 @@ AI likeness licences, fingerprinted with SHA-256 and anchored on Solana. Biometr
 </td>
 <td width="38%" rowspan="2" align="center" valign="middle">
 
-<img src="eye.svg" width="290" alt="An eye rendered in halftone dots" />
+<img src="hands.gif" width="290" alt="Two hands reaching toward each other, drawn in scan lines" />
 
 </td>
 <td width="31%" valign="top">
