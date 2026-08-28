@@ -17,9 +17,13 @@
 
 **Hey there! I'm Azamat.**
 
-I build systems that prove things are true — licences you can verify, pipelines you can audit, tests that run themselves. Most of it starts at a hackathon and keeps going long after the deadline. I work in TypeScript and Python day to day, and drop into Rust when a chain program needs writing. The interesting part is never only the UI: it's the schema, the API, the on-chain program, and the page it renders on.
+I'm 16, from Kazakhstan, and I build technology companies.
 
-Ask me about canonical hashing, on-chain anchoring, or building a whole product in a weekend.
+Founder of **Creatorfield AI**, selected as a Top-20 startup at nFactorial Incubator 2026. CTO and co-founder of **Ailingo**, an international AI-powered platform for learning 12 languages. I lead **Azyon**, a youth ecosystem of 400+ volunteers across Kazakhstan and several other countries, which has organised more than 50 projects. And I'm building **Human ID** — digital identity protection and verifiable consent for the use of a person's likeness in AI-generated content.
+
+Captain of the **RoboHeart** robotics team: three appearances at the Central Asian FIRST Championship, with awards and nominations among 400+ teams from 10 countries. Top 10 at Decentrathon 4.0 on the Solana track.
+
+I work across AI, full-stack engineering and robotics. What I'm actually chasing is global technology startups at the intersection of AI, software engineering and entrepreneurship.
 
 <br clear="left" />
 
