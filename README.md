@@ -6,13 +6,13 @@
   </picture>
 </div>
 
-<h1 align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-white.gif" />
     <source media="(prefers-color-scheme: light)" srcset="header-black.gif" />
-    <img src="header-black.gif" width="600" alt="Go ahead" />
+    <img src="header-black.gif" width="820" alt="Go ahead" />
   </picture>
-</h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/heyyAzamat?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=0b0b0b&labelColor=0b0b0b" alt="Stars" />
@@ -21,16 +21,28 @@
 </p>
 
 <h2 align="center">Know About Me</h2>
+<table>
+<tr>
+<td width="260" align="center" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="globe-white.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="globe-black.gif" />
+  <img src="globe-black.gif" width="240" alt="A rotating globe in halftone dots" />
+</picture>
+
+</td>
+<td valign="top">
 
 **Hey there! I'm Azamat.**
 
-I build systems that prove things are true — licences you can verify, pipelines you can
-audit, tests that run themselves. Most of it starts at a hackathon and keeps going long
-after the deadline. I work in TypeScript and Python day to day, and drop into Rust when
-a chain program needs writing. The interesting part is never only the UI: it's the
-schema, the API, the on-chain program, and the page it renders on.
+I build systems that prove things are true — licences you can verify, pipelines you can audit, tests that run themselves. Most of it starts at a hackathon and keeps going long after the deadline. I work in TypeScript and Python day to day, and drop into Rust when a chain program needs writing. The interesting part is never only the UI: it's the schema, the API, the on-chain program, and the page it renders on.
 
 Ask me about canonical hashing, on-chain anchoring, or building a whole product in a weekend.
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">Top Projects</h2>
 
