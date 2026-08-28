@@ -1,3 +1,6 @@
+<table align="center" width="100%">
+<tr><td>
+
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="header-white.gif" />
@@ -69,3 +72,6 @@ Ask me about canonical hashing, on-chain anchoring, or building a whole product 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
+
+</td></tr>
+</table>
