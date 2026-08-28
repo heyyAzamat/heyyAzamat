@@ -27,11 +27,47 @@ Ask me about canonical hashing, on-chain anchoring, or building a whole product 
 
 <h2 align="center">Top Projects</h2>
 
-<a href="https://github.com/heyyAzamat/human-id"><img src="https://img.shields.io/badge/HUMAN%20ID-5a5a5a?style=for-the-badge&logo=github&labelColor=5a5a5a" alt="Human ID" /></a> &nbsp;AI likeness licences, fingerprinted with SHA-256 and anchored on Solana. Biometrics never touch the chain — only hashes. &nbsp;[**Live demo**](https://human-id-solana.vercel.app)
+<table>
+<tr>
+<td width="31%" valign="top">
 
-<a href="https://github.com/heyyAzamat/qa-hub-hackathon-2026"><img src="https://img.shields.io/badge/QA%20HUB-5a5a5a?style=for-the-badge&logo=github&labelColor=5a5a5a" alt="QA Hub" /></a> &nbsp;AI-driven QA automation, so the humans review instead of transcribe.
+<a href="https://github.com/heyyAzamat/human-id"><img src="https://img.shields.io/badge/HUMAN%20ID-5a5a5a?style=for-the-badge&logo=github&logoColor=white" alt="HUMAN ID" /></a>
 
-<a href="https://github.com/heyyAzamat/ai-media-watch-afm-hackathon"><img src="https://img.shields.io/badge/MEDIA%20WATCH-5a5a5a?style=for-the-badge&logo=github&labelColor=5a5a5a" alt="AI Media Watch" /></a> &nbsp;A media-monitoring pipeline — ingest, classify, surface what matters. Containerised end to end.
+AI likeness licences, fingerprinted with SHA-256 and anchored on Solana. Biometrics never touch the chain — only hashes.
+
+[**Live demo**](https://human-id-solana.vercel.app)
+
+</td>
+<td width="38%" rowspan="2" align="center" valign="middle">
+
+<img src="eye.png" width="290" alt="An eye rendered in halftone dots" />
+
+</td>
+<td width="31%" valign="top">
+
+<a href="https://github.com/heyyAzamat/qa-hub-hackathon-2026"><img src="https://img.shields.io/badge/QA%20HUB-5a5a5a?style=for-the-badge&logo=github&logoColor=white" alt="QA HUB" /></a>
+
+AI-driven QA automation, so the humans review instead of transcribe.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/heyyAzamat/ai-media-watch-afm-hackathon"><img src="https://img.shields.io/badge/MEDIA%20WATCH-5a5a5a?style=for-the-badge&logo=github&logoColor=white" alt="MEDIA WATCH" /></a>
+
+A media-monitoring pipeline — ingest, classify, surface what matters. Containerised end to end.
+
+</td>
+<td valign="top">
+
+<a href="https://github.com/heyyAzamat?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-5a5a5a?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+
+Side builds and experiments that did not survive contact with a deadline.
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">Toolkit</h2>
 
