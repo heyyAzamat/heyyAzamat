@@ -12,7 +12,11 @@
 </p>
 
 <div align="center">
-  <img src="sec-about-me.svg" width="600" alt="About me" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-about-me-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-about-me-black.svg" />
+    <img src="sec-about-me-black.svg" width="600" alt="About me" />
+  </picture>
 </div>
 
 - Coming soon 
@@ -20,7 +24,11 @@
 > 💡 Motto: *“Build, break, learn, repeat.”*
 
 <div align="center">
-  <img src="sec-my-toolkit.svg" width="600" alt="My toolkit" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-my-toolkit-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-my-toolkit-black.svg" />
+    <img src="sec-my-toolkit-black.svg" width="600" alt="My toolkit" />
+  </picture>
 </div>
 
 <p align="center">
@@ -33,7 +41,11 @@
 </p>
 
 <div align="center">
-  <img src="sec-featured-projects.svg" width="600" alt="Featured projects" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-featured-projects-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-featured-projects-black.svg" />
+    <img src="sec-featured-projects-black.svg" width="600" alt="Featured projects" />
+  </picture>
 </div>
 
 - Coming soon
@@ -41,7 +53,11 @@
 > 📝 Each project is a journey. Every line of code tells a story.
 
 <div align="center">
-  <img src="sec-github-insights.svg" width="600" alt="GitHub insights" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-github-insights-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-github-insights-black.svg" />
+    <img src="sec-github-insights-black.svg" width="600" alt="GitHub insights" />
+  </picture>
 </div>
 
 <p align="center">
@@ -50,13 +66,21 @@
 </p>
 
 <div align="center">
-  <img src="sec-what-im-exploring.svg" width="600" alt="What I’m exploring" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-what-im-exploring-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-what-im-exploring-black.svg" />
+    <img src="sec-what-im-exploring-black.svg" width="600" alt="What I’m exploring" />
+  </picture>
 </div>
 
 - Coming soon
 
 <div align="center">
-  <img src="sec-lets-connect.svg" width="600" alt="Let’s connect" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="sec-lets-connect-white.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="sec-lets-connect-black.svg" />
+    <img src="sec-lets-connect-black.svg" width="600" alt="Let’s connect" />
+  </picture>
 </div>
 
 <p align="center">
