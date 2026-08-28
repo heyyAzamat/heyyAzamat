@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="cat.gif" width="250" />
+  <img src="horse.gif" width="420" alt="A horse galloping, drawn as a halftone dot matrix" />
 </div>
 
 <h1 align="center">👋 Yo! I'm Azamat</h1>
