@@ -1,16 +1,8 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="horse-white.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="horse-black.gif" />
-    <img src="horse-black.gif" width="420" alt="A horse galloping, drawn as a halftone dot matrix" />
-  </picture>
-</div>
-
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="headline-white.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="headline-black.svg" />
-    <img src="headline-black.svg" width="554" alt="Go ahead" />
+    <source media="(prefers-color-scheme: dark)" srcset="header-white.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="header-black.gif" />
+    <img src="header-black.gif" width="600" alt="Go ahead" />
   </picture>
 </h1>
 <h3 align="center">🛠 Builder of ideas • 💻 Code explorer • 🚀 Community shaker</h3>
