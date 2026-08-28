@@ -7,7 +7,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/heyyAzamat"><img src="icon-telegram.svg" width="34" alt="Telegram" /></a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/heyyAzamat"><img src="icon-twitter.svg" width="34" alt="Twitter" /></a>
+  <a href="https://x.com/heyyAzamat"><img src="icon-x.svg" width="34" alt="X" /></a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/heyyAzamat"><img src="icon-linkedin.svg" width="34" alt="LinkedIn" /></a>
 </p>
