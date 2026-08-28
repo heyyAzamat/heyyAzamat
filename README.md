@@ -1,16 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="frame-top-white.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="frame-top-black.svg" />
-    <img src="frame-top-black.svg" width="880" alt="" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-white.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="banner-black.gif" />
-    <img src="banner-black.gif" width="820" alt="Go ahead" />
+    <source media="(prefers-color-scheme: dark)" srcset="go-ahead-white.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="go-ahead-black.gif" />
+    <img src="go-ahead-black.gif" width="600" alt="Go ahead" />
   </picture>
 </div>
 
@@ -90,10 +82,3 @@ Ask me about canonical hashing, on-chain anchoring, or building a whole product 
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=heyyAzamat&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top languages" />
 </p>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="frame-bot-white.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="frame-bot-black.svg" />
-    <img src="frame-bot-black.svg" width="880" alt="" />
-  </picture>
-</div>
