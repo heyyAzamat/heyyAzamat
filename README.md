@@ -3,9 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/heyyAzamat"><img src="https://img.shields.io/badge/GITHUB-5a5a5a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/heyyAzamat"><img src="https://img.shields.io/badge/LINKEDIN-5a5a5a?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:azaamat.se@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5a5a5a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/heyyAzamat"><img src="icon-instagram.svg" width="52" alt="Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/heyyAzamat"><img src="icon-telegram.svg" width="52" alt="Telegram" /></a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/heyyAzamat"><img src="icon-twitter.svg" width="52" alt="Twitter" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/heyyAzamat"><img src="icon-linkedin.svg" width="52" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -40,7 +44,7 @@ AI likeness licences, fingerprinted with SHA-256 and anchored on Solana. Biometr
 </td>
 <td width="38%" rowspan="2" align="center" valign="middle">
 
-<img src="eye.png" width="290" alt="An eye rendered in halftone dots" />
+<img src="eye.svg" width="290" alt="An eye rendered in halftone dots" />
 
 </td>
 <td width="31%" valign="top">
